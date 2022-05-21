@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+   android:id = "@+id/contaner"
+    android:layout_width="match_parent"
+    android:theme="@style/DemoTheme"
+    android:layout_height="match_parent"
+    tools:context=".Activities.Login"
+    android:linksClickable="true">
+
+    <include  android:id="@+id/log"  layout="@layout/login"></include>
+
+</FrameLayout>

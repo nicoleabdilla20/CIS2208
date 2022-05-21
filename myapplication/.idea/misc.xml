@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/gradient_background.xml" value="0.14" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/s.xml" value="0.1" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/textborder.xml" value="0.14" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_about.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_account.xml" value="0.12364130434782608" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_details.xml" value="0.1796875" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_feedback.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_forgot_password.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_grocery.xml" value="0.1796875" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_instructions.xml" value="0.12083333333333333" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_list.xml" value="0.1" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_login.xml" value="0.1585144927536232" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_me.xml" value="0.22" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_recipe.xml" value="0.1" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_settings.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_signup.xml" value="0.1" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_start_screen.xml" value="0.1796875" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_test.xml" value="0.11145833333333334" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/add_item.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/cardview_recipe.xml" value="0.1" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/confirmation_dialog.xml" value="0.12083333333333333" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/content_list.xml" value="0.1796875" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/details_recipes.xml" value="0.1" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_grocery.xml" value="0.1" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_me.xml" value="0.1" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_page1.xml" value="0.1796875" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_page2.xml" value="0.1" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_page3.xml" value="0.1125" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_recipes.xml" value="0.1" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_tab1.xml" value="0.1" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_tab2.xml" value="0.12635869565217392" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_tab_adapter.xml" value="0.12635869565217392" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item_dialog.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/list_row.xml" value="0.1796875" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/listitem.xml" value="0.11096014492753623" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/login.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/main_screens.xml" value="0.1" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/nav_header_layout.xml" value="0.1796875" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/popup.xml" value="0.1796875" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/layout/screen_2.xml" value="0.1" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.22" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/menu/main_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/menu/navigation_drawer.xml" value="0.13125" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/menu/pop_up_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/menu/top_menu.xml" value="0.1484375" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/abdil/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id = "@+id/contaner"
+    android:layout_width="match_parent"
+    android:theme="@style/DemoTheme"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/gradient"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:srcCompat="@drawable/gradient_background"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/box"
+        android:layout_width="350dp"
+        android:layout_height="600dp"
+        android:layout_centerInParent="true"
+        app:srcCompat="@drawable/white_rec"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:text="Login"
+        android:textColor="@color/black"
+        android:textSize="20pt"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="30pt"
+        android:layout_marginTop="270dp"
+        android:text="Email"
+        android:textColor="@color/black"
+        android:textSize="8pt"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/edemail"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:layout_marginLeft="30pt"
+        android:background="@drawable/text_box"
+        android:hint="Input your email"
+        android:padding="8dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="30pt"
+        android:layout_marginTop="370dp"
+        android:text="Password"
+        android:textColor="@color/black"
+        android:textSize="8pt"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/edpass"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400dp"
+        android:layout_marginLeft="30pt"
+        android:background="@drawable/text_box"
+        android:hint="Input your password"
+        android:padding="8dp" />
+
+    <Button
+        android:id="@+id/text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edpass"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:onClick="this"
+        style="?android:attr/borderlessButtonStyle"
+        android:text="Forgot your password?"
+        android:textStyle="normal"
+        app:backgroundTint="@android:color/transparent"
+        tools:ignore="OnClick" />
+
+    <Button
+        android:id="@+id/enter"
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:layout_below="@id/edpass"
+        android:text="Enter"
+        android:onClick="this"
+        tools:ignore = "OnClick"
+        style="@style/Theme.MaterialComponents.Light.NoActionBar"
+        android:textSize="20dp" />
+
+</RelativeLayout>
